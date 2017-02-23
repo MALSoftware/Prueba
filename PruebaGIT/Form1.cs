@@ -21,5 +21,10 @@ namespace PruebaGIT
         {
             //Este es un comentario de prueba
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            //Este es un comentario de prueba2
+        }
     }
 }
